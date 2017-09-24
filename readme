@@ -2,3 +2,13 @@ Buoc 1: open server django
 source Django_Server/bin/activate
 Buoc 2: cai dat thu vien
 pip install - r requirement.txt
+
+Buoc 3: run server
+-vao directory AI_Server
+-run server bang cach:
+python manage.py runserver
+
+buoc 4: truy cap vao dia chi
+http://127.0.0.1:8000/recommended_system/getmusic
+
+tam thoi no tra ve mot object json gom co id va path
