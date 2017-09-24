@@ -1,0 +1,4 @@
+Buoc 1: open server django
+source Django_Server/bin/activate
+Buoc 2: cai dat thu vien
+pip install - r requirement.txt
